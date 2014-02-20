@@ -2,4 +2,4 @@
 
 Discussion, Issue Tracker &amp; Documentation
 
-- [Development](/development/README.md)
+- [Development](/development)
