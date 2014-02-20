@@ -1,0 +1,8 @@
+# Scruitinizer Sample Configuration
+# Profile: WPCollab_WP-plugin
+#
+# rename to `.scrutinizer.yml` or copy into your Scrutinizer setting
+tools:
+    php_code_sniffer:
+        config:
+            standard: WordPress
