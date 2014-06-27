@@ -24,3 +24,6 @@
 ####__Continuous Integration:__ [Travis CI](https://travis-ci.org/)
 - Travis CI sample profiles:
 	- @todo
+- Tip & Tricks
+	- Skip build test on a per-commit basis:
+		- add `[skip ci]` or `[ci skip]` to your commit message
